@@ -34,7 +34,7 @@ zope已死，plone也日渐没落——不，肉体已死，灵魂永续；同�
 
 zope我们主要参考三分文档和一份书籍，官方的《Zope 2 Book》、《Zope Development Guide》、《Web Component Development
 with Zope 3》，此外还有很多的第三方文档、博客，使用者经验谈。pyramid的翻译内容主要参考其官方的文档，中间会
-参考http://pyramidoc.lofter.com/的一些翻译内容（十分感谢）。plone主要是参考官方文档。总体上，我们希望此处的翻译
+参考http://pyramidoc.lofter.com的一些翻译内容（十分感谢）。plone主要是参考官方文档。总体上，我们希望此处的翻译
 内容能为各位带来的一定的启发性。对于能够看到的读者，当我们未能完成翻译时，也许读起来还是无法构成相应的只是体系，
 但一旦完成或后面在回头按照zope、pyramid、plone的顺序快速通读一边就会有很多的收获，也许那时你的头脑中就会构建
 起一副完整的、图像式的知识体系。
